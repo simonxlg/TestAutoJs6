@@ -1,0 +1,26 @@
+{
+  "abis": [],
+  "assets": [],
+  "build": {
+    "id": "C596D087-2",
+    "number": 2,
+    "time": 1750305199642
+  },
+  "excludedDirs": [],
+  "useFeatures": [],
+  "launchConfig": {
+    "launcherVisible": true,
+    "logsVisible": true,
+    "splashVisible": true,
+    "permissions": [],
+    "slug": "Powered by AutoJs6"
+  },
+  "libs": [],
+  "main": "ui.js",
+  "name": "ninibao",
+  "packageName": "com.a.b",
+  "permissions": [],
+  "signatureScheme": "V1 + V2",
+  "versionCode": 1,
+  "versionName": "1.0.0"
+}
